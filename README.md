@@ -1,3 +1,7 @@
+### Fork with Premake5 configuration
+- [GLFW](https://github.com/glfw/glfw)
+- [Premake5](https://github.com/premake/premake-core)
+
 # GLFW
 
 [![Build status](https://github.com/glfw/glfw/actions/workflows/build.yml/badge.svg)](https://github.com/glfw/glfw/actions)
